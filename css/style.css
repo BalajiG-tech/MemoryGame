@@ -6,7 +6,7 @@
 
 body {
 	background: #ffffff;
-    font-family: 'Gloria', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
     font-size: 16px;
     width:100%;
 }
@@ -47,7 +47,7 @@ body {
 
 .card-container{
 	max-width: 85%;
-    background-color: #8dc799;
+    background-color: #2196F3;
 	padding: 1rem;
     border-radius: 5px;
     border: 5px solid black;
